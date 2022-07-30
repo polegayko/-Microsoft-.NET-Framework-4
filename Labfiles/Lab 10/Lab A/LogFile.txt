@@ -1,0 +1,21 @@
+Log file status checked - Created
+Collecting Started
+Measurement Taken: 85
+Measurement Taken: 496
+Measurement Taken: 826
+Measurement Taken: 736
+Measurement Taken: 286
+Measurement Taken: 1171
+Measurement Taken: 742
+Measurement Taken: 819
+Measurement Taken: 597
+Measurement Taken: 428
+Measurement Taken: 174
+Measurement Taken: 1164
+Measurement Taken: 304
+Measurement Taken: 823
+Measurement Taken: 1074
+Measurement Taken: 457
+Measurement Taken: 663
+Log File Changed
+New Log File: E:\Labfiles\Lab 10\Lab A\LogFile2.txt

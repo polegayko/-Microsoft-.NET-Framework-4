@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareRoots", "SquareRoots\SquareRoots.csproj", "{DCD35C19-B47F-4B9F-8908-4502DF9CCBBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCD35C19-B47F-4B9F-8908-4502DF9CCBBB}.Debug|x86.ActiveCfg = Debug|x86
+		{DCD35C19-B47F-4B9F-8908-4502DF9CCBBB}.Debug|x86.Build.0 = Debug|x86
+		{DCD35C19-B47F-4B9F-8908-4502DF9CCBBB}.Release|x86.ActiveCfg = Release|x86
+		{DCD35C19-B47F-4B9F-8908-4502DF9CCBBB}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
